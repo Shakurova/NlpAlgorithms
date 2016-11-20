@@ -1,2 +1,5 @@
-# nlp_algorithms
-NLP Algorithms such as tf-idf and levenshtein distance
+# Realisation of Natural Language Processing Algorithms
+- tf-idf 
+- levenshtein distance
+- inversed indext
+- dupplicates detection
