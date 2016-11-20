@@ -1,5 +1,5 @@
 # Realisation of Natural Language Processing Algorithms
 - tf-idf 
 - levenshtein distance
-- inversed indext
+- inversed index
 - dupplicates detection
